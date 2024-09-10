@@ -1,0 +1,95 @@
+/* تصميم الصفحة الرئيسية للبروفايل */
+.profile-container {
+  display: flex;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+/* تصميم السايد بار */
+.sidebar {
+  width: 250px;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.profile-image {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-image img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 15px;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+/* تصميم المحتوى الرئيسي */
+.profile-main {
+  flex-grow: 1;
+}
+
+.profile-main h2 {
+  margin-bottom: 20px;
+}
+
+/* تصميم البوستات أو الأفكار */
+.ideas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.idea-card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.idea-card:hover {
+  transform: translateY(-5px);
+}
+
+.idea-card h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.idea-card p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.btn-outline-primary {
+  color: #007bff;
+  border: 2px solid #007bff;
+  padding: 8px 16px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn-outline-primary:hover {
+  background-color: #007bff;
+  color: #fff;
+}

@@ -1,0 +1,57 @@
+.userdata {
+  position: relative; /* لضمان أن القائمة المنبثقة تظهر فوق العناصر الأخرى */
+  display: flex;
+  align-items: center;
+}
+
+.userimg {
+  width: 40px; /* الحجم حسب الحجم المطلوب */
+  height: 40px; /* الحجم حسب الحجم المطلوب */
+  overflow: hidden;
+  border-radius: 50%;
+  cursor: pointer; /* يجعل الصورة قابلة للنقر */
+  border: 2px solid #007bff; /* إضافة حدود حول الصورة (اختياري) */
+}
+
+.userimg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.menu {
+  position: absolute;
+  top: 50px; /* المسافة من العنصر الرئيسي */
+  right: 0;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 99;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  min-width: 160px;
+}
+
+.menu li {
+  border-bottom: 1px solid #ddd;
+  padding: 5px;
+}
+
+.menu li:last-child {
+  border-bottom: none;
+}
+
+.dropdown-item {
+  display: block;
+  padding: 10px 20px;
+  color: #000;
+  text-decoration: none;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.dropdown-item:hover {
+  background-color: #f8f9fa;
+}

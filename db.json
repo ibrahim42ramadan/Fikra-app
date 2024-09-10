@@ -1,0 +1,630 @@
+{
+  "users": [
+    {
+      "email": "ibrahimramadan1@gmail.com",
+      "password": "$2a$10$gizyEN4mGpGmUXvmmOJSh.E8Wzc/CqHqJmKL62106BXr2EuL2AI1S",
+      "username": "ibrahimramadan1",
+      "imageUrl": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-1/421952649_797746362294394_4491993293282114632_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=lNGEf-uvj0cQ7kNvgG_MQGz&_nc_ht=scontent.fcai21-3.fna&_nc_gid=Aq6nUD6_UX2r5UiSmLROYoQ&oh=00_AYCw0BSkN-no9PrvbECxLYyXfyKHYqt67Ec9-dhh8vYG3w&oe=66E455BA",
+      "type": "admin",
+      "likedIdeas": [
+        8,
+        5
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 1
+    },
+    {
+      "email": "ibrahimramadan2@gmail.com",
+      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
+      "username": "monderan fashon 2",
+      "imageUrl": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "user",
+      "likedIdeas": [
+        2,
+        3
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 2
+    },
+    {
+      "email": "ibrahimramadan4@gmail.com",
+      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
+      "username": "seid manl4",
+      "imageUrl": "https://images.pexels.com/photos/375880/pexels-photo-375880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "user",
+      "likedIdeas": [
+        2,
+        3
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 4
+    },
+    {
+      "email": "ibrahimramadan5@gmail.com",
+      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
+      "username": "narden mondeal5",
+      "imageUrl": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+      "type": "user",
+      "likedIdeas": [
+        2,
+        3
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 5
+    },
+    {
+      "email": "ibrahimramadan6@gmail.com",
+      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
+      "username": "mahmou adle6",
+      "imageUrl": "https://images.pexels.com/photos/375880/pexels-photo-375880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "employee",
+      "likedIdeas": [
+        2,
+        3
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 6
+    },
+    {
+      "email": "ibrahimramadan7@gmail.com",
+      "password": "$2a$10$7mZ3lYw/KYwJS9j/CcS47eQl1jB3ZqZuYX9lJG4mytn9nDPZhiMO6",
+      "username": "sameir 7",
+      "imageUrl": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "user",
+      "likedIdeas": [
+        3,
+        11,
+        2,
+        7,
+        4
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 7
+    },
+    {
+      "email": "ibrahimramadan8@gmail.com",
+      "password": "$2a$10$Qy6sOY/hvsTVdIrVl.4Xyuzz.VGRJUZAkPKLmL4DQycoBikKlQday",
+      "username": "sadea el mosqfa8",
+      "imageUrl": "https://images.pexels.com/photos/1580272/pexels-photo-1580272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "user",
+      "likedIdeas": [
+        1,
+        21
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 8
+    },
+    {
+      "email": "ibrahimramadan9@gmail.com",
+      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
+      "username": "pranda9",
+      "imageUrl": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "user",
+      "likedIdeas": [
+        2,
+        3
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 9
+    },
+    {
+      "email": "ibrahimramadan10@gmail.com",
+      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
+      "username": "abdelftah frez10",
+      "imageUrl": "https://images.pexels.com/photos/1755847/pexels-photo-1755847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "employee",
+      "likedIdeas": [
+        2,
+        3
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 10
+    },
+    {
+      "email": "ibrahimramadan11@gmail.com",
+      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
+      "username": "abo mhmed11",
+      "imageUrl": "https://images.pexels.com/photos/1755847/pexels-photo-1755847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "user",
+      "id": 11
+    },
+    {
+      "email": "ibrahimramadan12@gmail.com",
+      "password": "$2a$10$i9MFtOF4N5hXFcNeoehDv.W4Zv7vkssd8HukSeIi3uWU9n3dvCfbi",
+      "username": "ibrahimramadan12",
+      "imageUrl": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-1/421952649_797746362294394_4491993293282114632_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=lNGEf-uvj0cQ7kNvgG_MQGz&_nc_ht=scontent.fcai21-3.fna&oh=00_AYAIG9V1lOvDOs47wH7blN_7fw8uUUzX3BwSrIaWCxMo_g&oe=66E374BA",
+      "type": "user",
+      "likedIdeas": [
+        1,
+        2,
+        21
+      ],
+      "createdIdeas": [],
+      "id": 12
+    },
+    {
+      "email": "ibrahimramadan13@gmail.com",
+      "password": "$2a$10$BZFcjHGbePGmMkkWPRBzC.m/16uVK7saMB5KTZ2gGWADNeh9.eHi2",
+      "username": "ibrahimramadan13",
+      "imageUrl": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-1/421952649_797746362294394_4491993293282114632_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=lNGEf-uvj0cQ7kNvgG_MQGz&_nc_ht=scontent.fcai21-3.fna&oh=00_AYAIG9V1lOvDOs47wH7blN_7fw8uUUzX3BwSrIaWCxMo_g&oe=66E374BA",
+      "type": "user",
+      "id": 13
+    },
+    {
+      "email": "sayed@gmail.com",
+      "password": "$2a$10$ZWnjQA.tz4.CmYaGIpfoAubv034.Xe2Z6Ta1XDFax7yhp60zmAuGO",
+      "username": "sayed",
+      "imageUrl": "https://scontent.fcai21-2.fna.fbcdn.net/v/t39.30808-6/450534939_987644859573632_7904623102325540473_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFgJ1tfUKFRYQXxOkkbQmEgEFsUjCJUk44QWxSMIlSTjlRaJa7LmjT8F7rUE_Q4RILjOYdLqIW2JEgWDdWFDMvp&_nc_ohc=na8BVrq9i_gQ7kNvgFNLunY&_nc_ht=scontent.fcai21-2.fna&_nc_gid=AxP7_dY7vAGAQnzRLadxFuk&oh=00_AYCqW5J-UOcpxYDx9nnlHIHajIvuvpXAk8xfBsQnXaHkWQ&oe=66E5F1E7",
+      "type": "user",
+      "likedIdeas": [
+        14,
+        21,
+        2,
+        1
+      ],
+      "createdIdeas": [
+        1
+      ],
+      "id": 14
+    },
+    {
+      "email": "ahmed@gmail.com",
+      "password": "$2a$10$suLm9//C.q6Oo.0zy7JjKOHqW5VTF8ZzpSMu.O9C12SOwJsdMjOlS",
+      "username": "ahmed",
+      "imageUrl": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "user",
+      "likedIdeas": [
+        14,
+        1,
+        2
+      ],
+      "createdIdeas": [],
+      "id": 15
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$hgz7zwzVwU5C.Pj8F7Rh0e1ZYkvxA0GNrDFXp5KifVkCCwhrQKJFK",
+      "username": "user123",
+      "imageUrl": "Aut aliquid neque qu",
+      "type": "user",
+      "likedIdeas": [
+        12
+      ],
+      "createdIdeas": [],
+      "id": 16
+    },
+    {
+      "email": "user5@gmail.com",
+      "password": "$2a$10$l6ba/2FOV5zG82D2tuK1meQBsRO6PjA0DlSf6Dga455eonhITtapy",
+      "username": "user5",
+      "imageUrl": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-1/421952649_797746362294394_4491993293282114632_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=lNGEf-uvj0cQ7kNvgG_MQGz&_nc_ht=scontent.fcai21-3.fna&oh=00_AYAIG9V1lOvDOs47wH7blN_7fw8uUUzX3BwSrIaWCxMo_g&oe=66E374BA",
+      "type": "user",
+      "likedIdeas": [
+        8
+      ],
+      "createdIdeas": [],
+      "id": 17
+    }
+  ],
+  "ideas": [
+    {
+      "title": "تطبيق للياقة البدنية",
+      "description": "تطبيق يساعد الأشخاص على متابعة لياقتهم البدنية.",
+      "category": "رياضة",
+      "likes": 6,
+      "userid": 1,
+      "comments": [
+        {
+          "userId": 2,
+          "comment": "فكرة رائعة، هل يتضمن تمارين مخصصة؟"
+        },
+        {
+          "userId": 7,
+          "comment": "رائعه"
+        },
+        {
+          "userId": 8,
+          "comment": "مهتم انت بالجم اليومين دول"
+        },
+        {
+          "userId": 15,
+          "comment": "جيد جدا"
+        },
+        {
+          "userId": 18,
+          "comment": "ltd]"
+        },
+        {
+          "userId": 18,
+          "comment": ";"
+        },
+        {
+          "userId": 18,
+          "comment": "po"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "أداة لتحليل البيانات التسويقية",
+      "description": "أداة تساعد في تحليل البيانات التسويقية بفعالية.",
+      "category": "تسويق",
+      "likes": 29,
+      "userid": 2,
+      "comments": [
+        {
+          "userId": 15,
+          "comment": "مفيدة لتحليل البيانات بدقة."
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "تطبيق تتبع الصحة الشخصية",
+      "description": "تطبيق لمتابعة الحالة الصحية والتغذية.",
+      "category": "صحة",
+      "likes": 18,
+      "userid": 2,
+      "comments": [
+        {
+          "userId": 7,
+          "comment": "جميل"
+        },
+        {
+          "userId": 15,
+          "comment": "عاش"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "منصة تعليمية تفاعلية",
+      "description": "منصة تفاعلية لتعليم مختلف المهارات.",
+      "category": "تعليم",
+      "likes": 34,
+      "userid": 4,
+      "comments": [
+        {
+          "userId": 5,
+          "comment": "يمكن أن تكون مفيدة جدًا للمتعلمين."
+        },
+        {
+          "userId": 7,
+          "comment": "جميل"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "تطبيق لإدارة الوقت",
+      "description": "تطبيق يساعد الأفراد في تنظيم وإدارة وقتهم.",
+      "category": "تكنولوجيا",
+      "likes": 14,
+      "userid": 5,
+      "comments": [
+        {
+          "userId": 6,
+          "comment": "هل يحتوي على ميزات تذكير وتنبيه؟"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "أداة لتحليل الأداء الرياضي",
+      "description": "أداة لتحليل أداء الرياضيين وتحسينه.",
+      "category": "رياضة",
+      "likes": 13,
+      "userid": 6,
+      "comments": [
+        {
+          "userId": 8,
+          "comment": "رايقه"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "تطبيق للتسويق الرقمي",
+      "description": "تطبيق يساعد الشركات في استراتيجيات التسويق الرقمي.",
+      "category": "تسويق",
+      "likes": 23,
+      "userid": 7,
+      "comments": [
+        {
+          "userId": 8,
+          "comment": "سيكون مفيدًا جدًا للمسوقين."
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "برنامج لمراقبة الصحة النفسية",
+      "description": "برنامج لمراقبة وتقييم الصحة النفسية.",
+      "category": "صحة",
+      "likes": 16,
+      "userid": 8,
+      "comments": [
+        {
+          "userId": 8,
+          "comment": "حلوة يبو محم"
+        },
+        {
+          "userId": 17,
+          "comment": " جيد جدا "
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "أداة لتحسين تجربة المستخدم",
+      "description": "أداة لتحسين تجربة المستخدم في التطبيقات والمواقع.",
+      "category": "تكنولوجيا",
+      "likes": 17,
+      "userid": 9,
+      "comments": [
+        {
+          "userId": 10,
+          "comment": "كيف تعمل على تحسين التفاعل؟"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "منصة للتدريب الشخصي عبر الإنترنت",
+      "description": "منصة لتقديم التدريب الشخصي عبر الإنترنت.",
+      "category": "تعليم",
+      "likes": 30,
+      "userid": 10,
+      "comments": [
+        {
+          "userId": 7,
+          "comment": "رائعه"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "تطبيق لمتابعة تغذية الأطفال",
+      "description": "تطبيق لمراقبة التغذية والتغذية الصحية للأطفال.",
+      "category": "صحة",
+      "likes": 28,
+      "userid": 11,
+      "comments": [
+        {
+          "userId": 7,
+          "comment": "مفيد"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "title": "أداة لقياس فعالية الحملات الإعلانية",
+      "description": "أداة لقياس وتحليل فعالية الحملات الإعلانية.",
+      "category": "تسويق",
+      "likes": 22,
+      "userid": 12,
+      "comments": [
+        {
+          "userId": 16,
+          "comment": "تحتاج تحسينات في التحليل."
+        }
+      ],
+      "id": 12
+    },
+    {
+      "title": "تطبيق لمشاركة الأنشطة الرياضية",
+      "description": "تطبيق يسمح بمشاركة الأنشطة الرياضية مع الأصدقاء.",
+      "category": "رياضة",
+      "likes": 16,
+      "userid": 13,
+      "comments": [
+        {
+          "userId": 14,
+          "comment": "مفيد لمشاركة الأنشطة الرياضية."
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "منصة لتحليل الاتجاهات السوقية",
+      "description": "منصة لتحليل الاتجاهات والبيانات السوقية.",
+      "category": "تسويق",
+      "likes": 16,
+      "userid": 14,
+      "comments": [
+        {
+          "userId": 15,
+          "comment": "مهمة لتحليل السوق بشكل دقيق."
+        }
+      ],
+      "id": 14
+    },
+    {
+      "title": "تطبيق لتعزيز مهارات التواصل",
+      "description": "تطبيق يساعد في تحسين مهارات التواصل الشخصية.",
+      "category": "تكنولوجيا",
+      "likes": 13,
+      "userid": 15,
+      "comments": [
+        {
+          "userId": 16,
+          "comment": "هل يتضمن تمارين عملية للتواصل؟"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "title": "أداة للتخطيط الشخصي",
+      "description": "أداة تساعد في التخطيط الشخصي وإدارة الأهداف.",
+      "category": "تكنولوجيا",
+      "likes": 19,
+      "userid": 16,
+      "comments": [
+        {
+          "userId": 17,
+          "comment": "مفيدة لتنظيم الأهداف الشخصية."
+        }
+      ],
+      "id": 16
+    },
+    {
+      "title": "تطبيق لمراقبة النشاط البدني",
+      "description": "تطبيق لمراقبة النشاط البدني وتحفيز النشاط.",
+      "category": "رياضة",
+      "likes": 24,
+      "userid": 17,
+      "comments": [
+        {
+          "userId": 18,
+          "comment": "مفيدة للحفاظ على النشاط البدني."
+        }
+      ],
+      "id": 17
+    },
+    {
+      "title": "أداة لتحليل سلوك المستهلكين",
+      "description": "أداة لتحليل سلوك المستهلكين وفهم تفضيلاتهم.",
+      "category": "تسويق",
+      "likes": 23,
+      "userid": 18,
+      "comments": [
+        {
+          "userId": 19,
+          "comment": "تحليل سلوك المستهلكين مهم لفهم السوق."
+        }
+      ],
+      "id": 18
+    },
+    {
+      "title": "برنامج لتحسين النوم",
+      "description": "برنامج لمراقبة وتحسين جودة النوم.",
+      "category": "صحة",
+      "likes": 12,
+      "userid": 19,
+      "comments": [
+        {
+          "userId": 20,
+          "comment": "مفيد لتحسين جودة النوم."
+        }
+      ],
+      "id": 19
+    },
+    {
+      "title": "تطبيق لتخطيط الوجبات",
+      "description": "تطبيق يساعد في تخطيط وجبات صحية وتقديم وصفات بناءً على التفضيلات الغذائية.",
+      "category": "صحة",
+      "likes": 0,
+      "userid": 1,
+      "comments": [],
+      "id": 20
+    },
+    {
+      "title": "منصة لتعلم اللغات",
+      "description": "منصة تقدم دروسًا تفاعلية لتعلم لغات جديدة مع اختبارات تقييمية.",
+      "category": "تعليم",
+      "likes": 0,
+      "userid": 2,
+      "comments": [],
+      "id": 21
+    },
+    {
+      "title": "أداة لإدارة المهام المنزلية",
+      "description": "أداة تساعد في تنظيم وإدارة المهام المنزلية ومشاركة المهام مع العائلة.",
+      "category": "تكنولوجيا",
+      "likes": 0,
+      "userid": 3,
+      "comments": [],
+      "id": 22
+    },
+    {
+      "title": "تطبيق لمتابعة التعلم الذاتي",
+      "description": "تطبيق لمتابعة التقدم في الدورات التعليمية وتقديم ملاحظات وتحفيز.",
+      "category": "تعليم",
+      "likes": 0,
+      "userid": 4,
+      "comments": [],
+      "id": 23
+    },
+    {
+      "title": "منصة للمشاريع الإبداعية",
+      "description": "منصة لعرض المشاريع الإبداعية والابتكارات ومشاركة الأفكار مع المجتمع.",
+      "category": "التكنولوجيا",
+      "likes": 0,
+      "userid": 5,
+      "comments": [],
+      "id": 24
+    },
+    {
+      "title": "تطبيق لتحسين جودة النوم",
+      "description": "تطبيق يساعد في تحسين جودة النوم من خلال تتبع الأنماط وتقديم نصائح.",
+      "category": "صحة",
+      "likes": 0,
+      "userid": 6,
+      "comments": [],
+      "id": 25
+    },
+    {
+      "title": "أداة لتحليل الأداء الأكاديمي",
+      "description": "أداة لتحليل الأداء الأكاديمي للطلاب وتقديم توصيات للتحسين.",
+      "category": "تعليم",
+      "likes": 0,
+      "userid": 7,
+      "comments": [],
+      "id": 26
+    },
+    {
+      "title": "تطبيق لمتابعة حالات الطقس",
+      "description": "تطبيق يقدم تحديثات دقيقة عن الطقس وحالة الجو بناءً على الموقع.",
+      "category": "تكنولوجيا",
+      "likes": 0,
+      "userid": 8,
+      "comments": [],
+      "id": 27
+    },
+    {
+      "title": "منصة للتدريب على مهارات البرمجة",
+      "description": "منصة تقدم تدريبات ومشاريع عملية لتعلم البرمجة وتحسين المهارات.",
+      "category": "تعليم",
+      "likes": 0,
+      "userid": 9,
+      "comments": [],
+      "id": 28
+    },
+    {
+      "title": "تطبيق للتأمل والاسترخاء",
+      "description": "تطبيق يقدم تمارين تأمل واسترخاء لمساعدة المستخدمين على التخفيف من التوتر.",
+      "category": "صحة",
+      "likes": 0,
+      "userid": 10,
+      "comments": [],
+      "id": 29
+    },
+    {
+      "title": "Mollitia culpa moll",
+      "description": "Exercitation volupta",
+      "category": "الرياضة",
+      "likes": 0,
+      "userid": 17,
+      "comments": [],
+      "id": 30
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+/* التأكد من أن الشريط الجانبي يظهر بجانب المحتوى الرئيسي */
+#wrapper {
+  display: flex;
+  align-items: stretch;
+}
+
+/* تصميم الـ Sidebar */
+#sidebar-wrapper {
+  min-height: 100vh;
+  width: 250px; /* ضبط عرض الشريط الجانبي */
+  background-color: #f8f9fa; /* لون خلفية فاتح */
+  border-right: 1px solid #ddd; /* حد خفيف بين الشريط الجانبي والمحتوى */
+}
+
+/* إضافة بعض التفاصيل الجمالية للعناوين والعناصر داخل الشريط الجانبي */
+#sidebar-wrapper .sidebar-heading {
+  padding: 1.25rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+#sidebar-wrapper .list-group {
+  width: 100%;
+}
+
+#page-content-wrapper {
+  width: 100%; /* ملء باقي الصفحة بالمحتوى */
+  padding: 20px;
+}
+
+/* عند استخدام زر القائمة (Toggle)، نجعل الشريط الجانبي يختفي عند الحاجة */
+#menu-toggle {
+  margin: 10px;
+}

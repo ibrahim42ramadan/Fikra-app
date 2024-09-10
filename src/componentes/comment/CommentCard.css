@@ -1,0 +1,39 @@
+/* CommentCard.css */
+.comment-card {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #4d3030;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.comment-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.comment-avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+.comment-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.comment-username {
+  margin: 0;
+  font-weight: bold;
+}
+
+.comment-text {
+  margin: 0;
+  padding-left: 50px; /* لضمان محاذاة النص تحت الاسم */
+}

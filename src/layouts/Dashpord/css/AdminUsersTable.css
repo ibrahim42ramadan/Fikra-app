@@ -1,0 +1,53 @@
+/* Container styling */
+.table-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 16px;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #007bff;
+  color: #fff;
+  font-weight: bold;
+}
+
+td {
+  background-color: #fff;
+}
+
+/* Image styling */
+.user-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Select box styling */
+select {
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* Header styling */
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+}

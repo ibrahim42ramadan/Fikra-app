@@ -1,0 +1,31 @@
+.post-details-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.post-details .contentidea {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.post-details h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.post-details p {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #555;
+}
+
+.post-content {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}

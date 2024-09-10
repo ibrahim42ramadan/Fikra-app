@@ -1,0 +1,8 @@
+.comment-container textarea {
+  direction: rtl;
+  width: 70%;
+  outline: none;
+  border: 1px solid rgb(156, 156, 157);
+  border-radius: 10px;
+  font-weight: 500;
+}

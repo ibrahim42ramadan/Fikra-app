@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-outline-primary {
+  border-color: #007bff;
+  color: #007bff;
+}
