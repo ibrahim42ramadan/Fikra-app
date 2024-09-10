@@ -1,2 +1,2 @@
-export const api_link = "http://localhost:4444";
+export const api_link = "https://fikraserver-production.up.railway.app";
 export const host = "http://localhost:3000";

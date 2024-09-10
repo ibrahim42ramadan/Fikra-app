@@ -1,630 +1,287 @@
 {
+  "Favorets": [],
   "users": [
     {
-      "email": "ibrahimramadan1@gmail.com",
-      "password": "$2a$10$gizyEN4mGpGmUXvmmOJSh.E8Wzc/CqHqJmKL62106BXr2EuL2AI1S",
-      "username": "ibrahimramadan1",
-      "imageUrl": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-1/421952649_797746362294394_4491993293282114632_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=lNGEf-uvj0cQ7kNvgG_MQGz&_nc_ht=scontent.fcai21-3.fna&_nc_gid=Aq6nUD6_UX2r5UiSmLROYoQ&oh=00_AYCw0BSkN-no9PrvbECxLYyXfyKHYqt67Ec9-dhh8vYG3w&oe=66E455BA",
-      "type": "admin",
-      "likedIdeas": [
-        8,
-        5
-      ],
-      "createdIdeas": [
-        1
-      ],
+      "email": "ibrahimramadan@gmail.com",
+      "password": "$2a$10$YoUjU382SuuGI2Rb3brHt.ooQF8n3oX56Sw0XSd.Tu5tuSDwaRl1K",
+      "first_name": "ابراهيم",
+      "last_name": "رمضان",
+      "thomnaile": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-6/421952649_797746362294394_4491993293282114632_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=zK2qGwWM-igQ7kNvgG90-iZ&_nc_ht=scontent.fcai21-3.fna&oh=00_AYDs9SUnRnu6wFwL-G_D7kPyMSqN3EayEiYlIzo450XaAw&oe=66B5C540",
+      "age": "23",
+      "address": "عبد الله مراد",
+      "phone_number": "01114357125",
+      "Category": "",
+      "type": "admins",
       "id": 1
     },
     {
-      "email": "ibrahimramadan2@gmail.com",
-      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
-      "username": "monderan fashon 2",
-      "imageUrl": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "type": "user",
-      "likedIdeas": [
-        2,
-        3
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 2
-    },
-    {
-      "email": "ibrahimramadan4@gmail.com",
-      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
-      "username": "seid manl4",
-      "imageUrl": "https://images.pexels.com/photos/375880/pexels-photo-375880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type": "user",
-      "likedIdeas": [
-        2,
-        3
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 4
-    },
-    {
-      "email": "ibrahimramadan5@gmail.com",
-      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
-      "username": "narden mondeal5",
-      "imageUrl": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
-      "type": "user",
-      "likedIdeas": [
-        2,
-        3
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 5
-    },
-    {
-      "email": "ibrahimramadan6@gmail.com",
-      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
-      "username": "mahmou adle6",
-      "imageUrl": "https://images.pexels.com/photos/375880/pexels-photo-375880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type": "employee",
-      "likedIdeas": [
-        2,
-        3
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 6
-    },
-    {
-      "email": "ibrahimramadan7@gmail.com",
-      "password": "$2a$10$7mZ3lYw/KYwJS9j/CcS47eQl1jB3ZqZuYX9lJG4mytn9nDPZhiMO6",
-      "username": "sameir 7",
-      "imageUrl": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type": "user",
-      "likedIdeas": [
-        3,
-        11,
-        2,
-        7,
-        4
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 7
-    },
-    {
-      "email": "ibrahimramadan8@gmail.com",
-      "password": "$2a$10$Qy6sOY/hvsTVdIrVl.4Xyuzz.VGRJUZAkPKLmL4DQycoBikKlQday",
-      "username": "sadea el mosqfa8",
-      "imageUrl": "https://images.pexels.com/photos/1580272/pexels-photo-1580272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type": "user",
-      "likedIdeas": [
-        1,
-        21
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 8
-    },
-    {
-      "email": "ibrahimramadan9@gmail.com",
-      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
-      "username": "pranda9",
-      "imageUrl": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type": "user",
-      "likedIdeas": [
-        2,
-        3
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 9
-    },
-    {
-      "email": "ibrahimramadan10@gmail.com",
-      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
-      "username": "abdelftah frez10",
-      "imageUrl": "https://images.pexels.com/photos/1755847/pexels-photo-1755847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type": "employee",
-      "likedIdeas": [
-        2,
-        3
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 10
-    },
-    {
-      "email": "ibrahimramadan11@gmail.com",
-      "password": "$2a$10$vtjhidA.7TPEb0Yuyc6PmuYEVeDK1Rx0.E.E31gKg..77A7YJVOFW",
-      "username": "abo mhmed11",
-      "imageUrl": "https://images.pexels.com/photos/1755847/pexels-photo-1755847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type": "user",
-      "id": 11
-    },
-    {
-      "email": "ibrahimramadan12@gmail.com",
-      "password": "$2a$10$i9MFtOF4N5hXFcNeoehDv.W4Zv7vkssd8HukSeIi3uWU9n3dvCfbi",
-      "username": "ibrahimramadan12",
-      "imageUrl": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-1/421952649_797746362294394_4491993293282114632_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=lNGEf-uvj0cQ7kNvgG_MQGz&_nc_ht=scontent.fcai21-3.fna&oh=00_AYAIG9V1lOvDOs47wH7blN_7fw8uUUzX3BwSrIaWCxMo_g&oe=66E374BA",
-      "type": "user",
-      "likedIdeas": [
-        1,
-        2,
-        21
-      ],
-      "createdIdeas": [],
-      "id": 12
-    },
-    {
-      "email": "ibrahimramadan13@gmail.com",
-      "password": "$2a$10$BZFcjHGbePGmMkkWPRBzC.m/16uVK7saMB5KTZ2gGWADNeh9.eHi2",
-      "username": "ibrahimramadan13",
-      "imageUrl": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-1/421952649_797746362294394_4491993293282114632_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=lNGEf-uvj0cQ7kNvgG_MQGz&_nc_ht=scontent.fcai21-3.fna&oh=00_AYAIG9V1lOvDOs47wH7blN_7fw8uUUzX3BwSrIaWCxMo_g&oe=66E374BA",
-      "type": "user",
-      "id": 13
-    },
-    {
       "email": "sayed@gmail.com",
-      "password": "$2a$10$ZWnjQA.tz4.CmYaGIpfoAubv034.Xe2Z6Ta1XDFax7yhp60zmAuGO",
-      "username": "sayed",
-      "imageUrl": "https://scontent.fcai21-2.fna.fbcdn.net/v/t39.30808-6/450534939_987644859573632_7904623102325540473_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFgJ1tfUKFRYQXxOkkbQmEgEFsUjCJUk44QWxSMIlSTjlRaJa7LmjT8F7rUE_Q4RILjOYdLqIW2JEgWDdWFDMvp&_nc_ohc=na8BVrq9i_gQ7kNvgFNLunY&_nc_ht=scontent.fcai21-2.fna&_nc_gid=AxP7_dY7vAGAQnzRLadxFuk&oh=00_AYCqW5J-UOcpxYDx9nnlHIHajIvuvpXAk8xfBsQnXaHkWQ&oe=66E5F1E7",
-      "type": "user",
-      "likedIdeas": [
-        14,
-        21,
-        2,
-        1
-      ],
-      "createdIdeas": [
-        1
-      ],
-      "id": 14
-    },
-    {
-      "email": "ahmed@gmail.com",
-      "password": "$2a$10$suLm9//C.q6Oo.0zy7JjKOHqW5VTF8ZzpSMu.O9C12SOwJsdMjOlS",
-      "username": "ahmed",
-      "imageUrl": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type": "user",
-      "likedIdeas": [
-        14,
-        1,
-        2
-      ],
-      "createdIdeas": [],
-      "id": 15
-    },
-    {
-      "email": "user@gmail.com",
-      "password": "$2a$10$hgz7zwzVwU5C.Pj8F7Rh0e1ZYkvxA0GNrDFXp5KifVkCCwhrQKJFK",
-      "username": "user123",
-      "imageUrl": "Aut aliquid neque qu",
-      "type": "user",
-      "likedIdeas": [
-        12
-      ],
-      "createdIdeas": [],
-      "id": 16
-    },
-    {
-      "email": "user5@gmail.com",
-      "password": "$2a$10$l6ba/2FOV5zG82D2tuK1meQBsRO6PjA0DlSf6Dga455eonhITtapy",
-      "username": "user5",
-      "imageUrl": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-1/421952649_797746362294394_4491993293282114632_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHh7u45Fi4nt-v0yIz0BeB45DfHdHAmqvDkN8d0cCaq8HcAth7_EtsyDrt-MHkdhkPCh3oZKQI2wdwqfXPz_pyO&_nc_ohc=lNGEf-uvj0cQ7kNvgG_MQGz&_nc_ht=scontent.fcai21-3.fna&oh=00_AYAIG9V1lOvDOs47wH7blN_7fw8uUUzX3BwSrIaWCxMo_g&oe=66E374BA",
-      "type": "user",
-      "likedIdeas": [
-        8
-      ],
-      "createdIdeas": [],
-      "id": 17
-    }
-  ],
-  "ideas": [
-    {
-      "title": "تطبيق للياقة البدنية",
-      "description": "تطبيق يساعد الأشخاص على متابعة لياقتهم البدنية.",
-      "category": "رياضة",
-      "likes": 6,
-      "userid": 1,
-      "comments": [
-        {
-          "userId": 2,
-          "comment": "فكرة رائعة، هل يتضمن تمارين مخصصة؟"
-        },
-        {
-          "userId": 7,
-          "comment": "رائعه"
-        },
-        {
-          "userId": 8,
-          "comment": "مهتم انت بالجم اليومين دول"
-        },
-        {
-          "userId": 15,
-          "comment": "جيد جدا"
-        },
-        {
-          "userId": 18,
-          "comment": "ltd]"
-        },
-        {
-          "userId": 18,
-          "comment": ";"
-        },
-        {
-          "userId": 18,
-          "comment": "po"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "title": "أداة لتحليل البيانات التسويقية",
-      "description": "أداة تساعد في تحليل البيانات التسويقية بفعالية.",
-      "category": "تسويق",
-      "likes": 29,
-      "userid": 2,
-      "comments": [
-        {
-          "userId": 15,
-          "comment": "مفيدة لتحليل البيانات بدقة."
-        }
-      ],
+      "password": "$2a$10$B1/QLgTlpho2MCfp9KlAZe2U3izEn6UFMeTepTAt54Nl4Rd/cBbC2",
+      "first_name": "سيد",
+      "last_name": "رمضان",
+      "thomnaile": "https://scontent.fcai21-2.fna.fbcdn.net/v/t39.30808-6/450534939_987644859573632_7904623102325540473_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFgJ1tfUKFRYQXxOkkbQmEgEFsUjCJUk44QWxSMIlSTjlRaJa7LmjT8F7rUE_Q4RILjOYdLqIW2JEgWDdWFDMvp&_nc_ohc=eyU98S5f7ugQ7kNvgH9fOzN&_nc_ht=scontent.fcai21-2.fna&oh=00_AYCKvkC75I8C8q9LTXAcN0h4z3Lafx6i_ahiLuV8YWVVOQ&oe=66B5D327",
+      "age": "20",
+      "address": "giza",
+      "phone_number": "123999999",
+      "Category": "",
       "id": 2
     },
     {
-      "title": "تطبيق تتبع الصحة الشخصية",
-      "description": "تطبيق لمتابعة الحالة الصحية والتغذية.",
-      "category": "صحة",
-      "likes": 18,
-      "userid": 2,
-      "comments": [
-        {
-          "userId": 7,
-          "comment": "جميل"
-        },
-        {
-          "userId": 15,
-          "comment": "عاش"
-        }
-      ],
+      "type": "user",
+      "email": "gepej@mailinator.com",
+      "password": "$2a$10$s0iuRIfUT4JcHdQgAQeVUO7TUj2dQPWuDmd266mXobMtqJs5W/Jou",
+      "first_name": "Do reiciendis cupida",
+      "last_name": "Voluptas deleniti qu",
+      "thomnaile": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": "Nulla quaerat anim d",
+      "address": "Aut deserunt nobis t",
+      "phone_number": "Ducimus enim conseq",
+      "Category": "",
       "id": 3
     },
     {
-      "title": "منصة تعليمية تفاعلية",
-      "description": "منصة تفاعلية لتعليم مختلف المهارات.",
-      "category": "تعليم",
-      "likes": 34,
-      "userid": 4,
-      "comments": [
-        {
-          "userId": 5,
-          "comment": "يمكن أن تكون مفيدة جدًا للمتعلمين."
-        },
-        {
-          "userId": 7,
-          "comment": "جميل"
-        }
-      ],
+      "type": "user",
+      "email": "febe@mailinator.com",
+      "password": "$2a$10$Q7Dll0TYO6BPPcGU9JQFsOzu9bcdRxAlPsSW5S6MgikKlQO9YOTya",
+      "first_name": "Ex quo odio nisi aut",
+      "last_name": "Id labore est expedi",
+      "thomnaile": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": "Perferendis et aut n",
+      "address": "Perspiciatis repell",
+      "phone_number": "Ad sunt fugit eos i",
+      "Category": "",
       "id": 4
     },
     {
-      "title": "تطبيق لإدارة الوقت",
-      "description": "تطبيق يساعد الأفراد في تنظيم وإدارة وقتهم.",
-      "category": "تكنولوجيا",
-      "likes": 14,
-      "userid": 5,
-      "comments": [
-        {
-          "userId": 6,
-          "comment": "هل يحتوي على ميزات تذكير وتنبيه؟"
-        }
-      ],
+      "type": "user",
+      "email": "ximugomum@mailinator.com",
+      "password": "$2a$10$ttJXd2A8JQi8.enTYEPxpeViUhNmP3wAkHe8q6zESszkoG7p9232C",
+      "first_name": "Quam quia enim et qu",
+      "last_name": "Ipsum asperiores nem",
+      "thomnaile": "https://www.qihageneman.com",
+      "age": "Sit ab pariatur Sit",
+      "address": "Voluptates nisi veli",
+      "phone_number": "Ut eligendi iste ill",
+      "Category": "",
       "id": 5
     },
     {
-      "title": "أداة لتحليل الأداء الرياضي",
-      "description": "أداة لتحليل أداء الرياضيين وتحسينه.",
-      "category": "رياضة",
-      "likes": 13,
-      "userid": 6,
-      "comments": [
-        {
-          "userId": 8,
-          "comment": "رايقه"
-        }
-      ],
+      "type": "user",
+      "email": "moryfalo@mailinator.com",
+      "password": "$2a$10$OiyGVUSYtCNKnJVqs1JRkOeRCqVRnuhu3ipt6q31w1cqnzlVolWPK",
+      "first_name": "Ut commodo nulla id ",
+      "last_name": "Deserunt quia quasi ",
+      "thomnaile": "https://www.qydytesusigu.co.uk",
+      "age": "Omnis architecto ex ",
+      "address": "In voluptate pariatu",
+      "phone_number": "Nihil et qui digniss",
+      "Category": "",
       "id": 6
     },
     {
-      "title": "تطبيق للتسويق الرقمي",
-      "description": "تطبيق يساعد الشركات في استراتيجيات التسويق الرقمي.",
-      "category": "تسويق",
-      "likes": 23,
-      "userid": 7,
-      "comments": [
-        {
-          "userId": 8,
-          "comment": "سيكون مفيدًا جدًا للمسوقين."
-        }
-      ],
+      "type": "user",
+      "email": "wafyvef@mailinator.com",
+      "password": "$2a$10$.gFu3MZlIxPqAnosnfnwo.UtC63Z5sXLyHDx7sqC.Gc4xDK3cqaVq",
+      "first_name": "Enim eos quo quidem ",
+      "last_name": "Perspiciatis blandi",
+      "thomnaile": "https://www.fonaxupifip.co.uk",
+      "age": "Nisi ullam quae sequ",
+      "address": "Molestiae veritatis ",
+      "phone_number": "Pariatur Minima eaq",
+      "Category": "",
       "id": 7
     },
     {
-      "title": "برنامج لمراقبة الصحة النفسية",
-      "description": "برنامج لمراقبة وتقييم الصحة النفسية.",
-      "category": "صحة",
-      "likes": 16,
-      "userid": 8,
-      "comments": [
-        {
-          "userId": 8,
-          "comment": "حلوة يبو محم"
-        },
-        {
-          "userId": 17,
-          "comment": " جيد جدا "
-        }
-      ],
+      "type": "user",
+      "email": "xojyr@mailinator.com",
+      "password": "$2a$10$/nQRB/mwILeVsxUamIlvT.dtDY201KqQJUjxKVZBQN6wZogHlnc..",
+      "first_name": "In totam perspiciati",
+      "last_name": "At voluptas Nam est ",
+      "thomnaile": "https://www.kavyboz.com.au",
+      "age": "Ea deserunt dignissi",
+      "address": "Atque molestiae sit",
+      "phone_number": "Sed saepe consectetu",
+      "Category": "",
       "id": 8
     },
     {
-      "title": "أداة لتحسين تجربة المستخدم",
-      "description": "أداة لتحسين تجربة المستخدم في التطبيقات والمواقع.",
-      "category": "تكنولوجيا",
-      "likes": 17,
-      "userid": 9,
-      "comments": [
-        {
-          "userId": 10,
-          "comment": "كيف تعمل على تحسين التفاعل؟"
-        }
-      ],
+      "type": "user",
+      "email": "nygic@mailinator.com",
+      "password": "$2a$10$u.ZuTMk4VSRzRtr6rSVI9OOuBafphHCCmVdeGxTFBQnvIYrA3WgzO",
+      "first_name": "Neque aliquam volupt",
+      "last_name": "Nostrud magnam sunt",
+      "thomnaile": "https://www.binamyc.tv",
+      "age": "Corrupti quisquam l",
+      "address": "Minus animi amet e",
+      "phone_number": "Consequatur est dolo",
+      "Category": "",
       "id": 9
     },
     {
-      "title": "منصة للتدريب الشخصي عبر الإنترنت",
-      "description": "منصة لتقديم التدريب الشخصي عبر الإنترنت.",
-      "category": "تعليم",
-      "likes": 30,
-      "userid": 10,
-      "comments": [
-        {
-          "userId": 7,
-          "comment": "رائعه"
-        }
-      ],
+      "type": "user",
+      "email": "dikoxyce@mailinator.com",
+      "password": "$2a$10$5TRN60srfdr.IYK/XCf.DuARX066Cwpn73bepPivqLuxKcmHN0B8q",
+      "first_name": "Sed odio officiis te",
+      "last_name": "Dolore et enim labor",
+      "thomnaile": "https://www.damodyroxubivil.tv",
+      "age": "Dolor reiciendis min",
+      "address": "Sint nihil sequi ame",
+      "phone_number": "Qui omnis ut ut labo",
+      "Category": "",
       "id": 10
     },
     {
-      "title": "تطبيق لمتابعة تغذية الأطفال",
-      "description": "تطبيق لمراقبة التغذية والتغذية الصحية للأطفال.",
-      "category": "صحة",
-      "likes": 28,
-      "userid": 11,
-      "comments": [
-        {
-          "userId": 7,
-          "comment": "مفيد"
-        }
-      ],
+      "type": "user",
+      "email": "kycebo@mailinator.com",
+      "password": "$2a$10$H3SWdIYHS0HrpZHBiyFrFOMJ2eKqDf1.QNapmoxeQMaOVSa3xwfNa",
+      "first_name": "Dolorum non Nam dolo",
+      "last_name": "Culpa fugiat dolorem",
+      "thomnaile": "https://www.bozizihijoxoky.co.uk",
+      "age": "In non ullamco ratio",
+      "address": "Deserunt tenetur arc",
+      "phone_number": "Et omnis nostrum id ",
+      "Category": "",
       "id": 11
     },
     {
-      "title": "أداة لقياس فعالية الحملات الإعلانية",
-      "description": "أداة لقياس وتحليل فعالية الحملات الإعلانية.",
-      "category": "تسويق",
-      "likes": 22,
-      "userid": 12,
-      "comments": [
-        {
-          "userId": 16,
-          "comment": "تحتاج تحسينات في التحليل."
-        }
-      ],
+      "type": "user",
+      "email": "zucuperofy@mailinator.com",
+      "password": "$2a$10$G3jGhxK/5C/Wr/xcMkHulOoRLAVDT5VKEkfs70CGTemGApzI46Rny",
+      "first_name": "Non totam dolore non",
+      "last_name": "Nobis enim iure quas",
+      "thomnaile": "https://www.tuhose.ca",
+      "age": "Maxime culpa eveniet",
+      "address": "Iste aperiam volupta",
+      "phone_number": "Quia nihil non nulla",
+      "Category": "",
       "id": 12
     },
     {
-      "title": "تطبيق لمشاركة الأنشطة الرياضية",
-      "description": "تطبيق يسمح بمشاركة الأنشطة الرياضية مع الأصدقاء.",
-      "category": "رياضة",
-      "likes": 16,
-      "userid": 13,
-      "comments": [
-        {
-          "userId": 14,
-          "comment": "مفيد لمشاركة الأنشطة الرياضية."
-        }
-      ],
+      "email": "kamelabdo@gmail.com",
+      "password": "$2a$10$P4I45fbqYMnHcveUfTA.AO0OgzX6g0X5y6YvgQ/qsnt3.RjgjEBi6",
+      "first_name": "كامل ",
+      "last_name": "عبد التواب ",
+      "thomnaile": "https://scontent.fcai21-4.fna.fbcdn.net/v/t1.6435-9/85222219_1174075436096482_2099647758251065344_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeG4peGXjc3VxeAESQaIcmmBZnZRNMAnYn1mdlE0wCdifc-M4p8gCMU3eGbstcNulMu_qMcuXYWeRYBtjNtgmS8e&_nc_ohc=bZKYIedZy9UQ7kNvgFnf4ux&_nc_ht=scontent.fcai21-4.fna&oh=00_AYD7sbTta_3DODZ-zfwN13k9kf7ALtBIxpU0SESKsWZGaQ&oe=66DC3985",
+      "age": "24",
+      "address": "giza",
+      "phone_number": "92343535245",
+      "Category": "",
       "id": 13
+    }
+  ],
+  "courcess": [
+    {
+      "instructorId": "",
+      "courseName": "اساسيات أدوبي أوديشن ",
+      "instructor": "Ashraf Zidan",
+      "courseTime": "ساعتين",
+      "instructor_thoumnaile": "https://app.yanfaa.com/storage/images/DSC00045%20copy.jpg",
+      "thoumnaile": "https://app.yanfaa.com/storage/images/courses/4b9a67ed0b85bfbc98b58125d7a3c8a2.png",
+      "Category": "جرافك",
+      "isfavoret": false,
+      "id": 1
     },
     {
-      "title": "منصة لتحليل الاتجاهات السوقية",
-      "description": "منصة لتحليل الاتجاهات والبيانات السوقية.",
-      "category": "تسويق",
-      "likes": 16,
-      "userid": 14,
-      "comments": [
-        {
-          "userId": 15,
-          "comment": "مهمة لتحليل السوق بشكل دقيق."
-        }
-      ],
-      "id": 14
+      "instructorId": "",
+      "courseName": "التسويق عبر الواتساب ",
+      "instructor": "Mohamed Daoud",
+      "courseTime": "ساعة و 21 دقيقة",
+      "instructor_thoumnaile": "https://app.yanfaa.com/storage/images/Instagram-thumbnasil%20(1).jpg",
+      "thoumnaile": "https://app.yanfaa.com/storage/images/courses/8f55e80a60ef342bdfa112dd8e22be73.jpg",
+      "Category": "تسويق",
+      "isfavoret": false,
+      "id": 2
     },
     {
-      "title": "تطبيق لتعزيز مهارات التواصل",
-      "description": "تطبيق يساعد في تحسين مهارات التواصل الشخصية.",
-      "category": "تكنولوجيا",
-      "likes": 13,
-      "userid": 15,
-      "comments": [
-        {
-          "userId": 16,
-          "comment": "هل يتضمن تمارين عملية للتواصل؟"
-        }
-      ],
-      "id": 15
+      "instructorId": "",
+      "courseName": "كتابة المحتوى للسوشيال ميديا - المستوى الثاني",
+      "instructor": " Sherif Ibrahim",
+      "courseTime": "3 ساعات و 30 دقيقه",
+      "instructor_thoumnaile": "https://app.yanfaa.com/storage/images/Shrief%20ibrahiem.png",
+      "thoumnaile": "https://app.yanfaa.com/storage/images/courses/75298f84bc459c7facd52d1a0b0ed241.jpg",
+      "Category": "تسويق",
+      "isfavoret": false,
+      "id": 3
     },
     {
-      "title": "أداة للتخطيط الشخصي",
-      "description": "أداة تساعد في التخطيط الشخصي وإدارة الأهداف.",
-      "category": "تكنولوجيا",
-      "likes": 19,
-      "userid": 16,
-      "comments": [
-        {
-          "userId": 17,
-          "comment": "مفيدة لتنظيم الأهداف الشخصية."
-        }
-      ],
-      "id": 16
+      "instructorId": "",
+      "courseName": "صناعة المحتوي المرئي",
+      "instructor": " Kareem Elsayed",
+      "courseTime": "43 دقيقة",
+      "instructor_thoumnaile": "https://app.yanfaa.com/storage/images/Kariem%20el%20sayed.png",
+      "thoumnaile": "https://app.yanfaa.com/storage/images/courses/ab6916a613b89a2e115669447c8b3703.png",
+      "Category": "صناعة المحتوي",
+      "isfavoret": false,
+      "id": 4
     },
     {
-      "title": "تطبيق لمراقبة النشاط البدني",
-      "description": "تطبيق لمراقبة النشاط البدني وتحفيز النشاط.",
-      "category": "رياضة",
-      "likes": 24,
-      "userid": 17,
-      "comments": [
-        {
-          "userId": 18,
-          "comment": "مفيدة للحفاظ على النشاط البدني."
-        }
-      ],
-      "id": 17
+      "instructorId": "",
+      "courseName": "اساسيات التصوير بالموبايل",
+      "instructor": "Doaa Hamza",
+      "courseTime": "17 دقيقة",
+      "instructor_thoumnaile": "https://app.yanfaa.com/storage/images/avatars/e03ee5f41d3cf3b1b4a7b7c4d7180d56.png",
+      "thoumnaile": "https://app.yanfaa.com/storage/images/courses/67c2b0e5077cb975b655731f8f8cdab7.png",
+      "Category": "صناعة المحتوي",
+      "isfavoret": false,
+      "id": 5
     },
     {
-      "title": "أداة لتحليل سلوك المستهلكين",
-      "description": "أداة لتحليل سلوك المستهلكين وفهم تفضيلاتهم.",
-      "category": "تسويق",
-      "likes": 23,
-      "userid": 18,
-      "comments": [
-        {
-          "userId": 19,
-          "comment": "تحليل سلوك المستهلكين مهم لفهم السوق."
-        }
-      ],
-      "id": 18
+      "instructorId": "",
+      "courseName": "لغة برمجة JavaScript ",
+      "instructor": "mohamed amr",
+      "courseTime": "ساعتين و 51 دقيقة",
+      "instructor_thoumnaile": "https://app.yanfaa.com/storage/images/Mohed%20amr.png",
+      "thoumnaile": "https://app.yanfaa.com/storage/images/courses/cae20906705e08db0eb376f66d19e692.png",
+      "Category": "برمجة",
+      "isfavoret": false,
+      "id": 6
+    }
+  ],
+  "instructors": [
+    {
+      "instructorId": "1",
+      "instructorName": "Husine Nabel",
+      "department": "تسويق",
+      "thiumnaile": "https://app.yanfaa.com/storage/images/1620%20DSC00264.jpg"
     },
     {
-      "title": "برنامج لتحسين النوم",
-      "description": "برنامج لمراقبة وتحسين جودة النوم.",
-      "category": "صحة",
-      "likes": 12,
-      "userid": 19,
-      "comments": [
-        {
-          "userId": 20,
-          "comment": "مفيد لتحسين جودة النوم."
-        }
-      ],
-      "id": 19
+      "instructorId": "2",
+      "instructorName": "Eman Sobhy",
+      "department": "صناعة المحتوي ",
+      "thiumnaile": "https://app.yanfaa.com/storage/images/DSC00077.jpg"
     },
     {
-      "title": "تطبيق لتخطيط الوجبات",
-      "description": "تطبيق يساعد في تخطيط وجبات صحية وتقديم وصفات بناءً على التفضيلات الغذائية.",
-      "category": "صحة",
-      "likes": 0,
-      "userid": 1,
-      "comments": [],
-      "id": 20
+      "instructorId": "3",
+      "instructorName": "Kareem Hanafy",
+      "department": "العمل الحر",
+      "thiumnaile": "https://app.yanfaa.com/storage/images/kareem%20hanafy%20160%20.jpg"
     },
     {
-      "title": "منصة لتعلم اللغات",
-      "description": "منصة تقدم دروسًا تفاعلية لتعلم لغات جديدة مع اختبارات تقييمية.",
-      "category": "تعليم",
-      "likes": 0,
-      "userid": 2,
-      "comments": [],
-      "id": 21
+      "instructorId": "",
+      "instructorName": "",
+      "department": "",
+      "thiumnaile": ""
+    }
+  ],
+  "departmentes": [
+    {
+      "thomnaile": "https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 1,
+      "departmentName": "تسويق",
+      "coursess_count": 1
     },
     {
-      "title": "أداة لإدارة المهام المنزلية",
-      "description": "أداة تساعد في تنظيم وإدارة المهام المنزلية ومشاركة المهام مع العائلة.",
-      "category": "تكنولوجيا",
-      "likes": 0,
-      "userid": 3,
-      "comments": [],
-      "id": 22
+      "thomnaile": "https://images.pexels.com/photos/4152461/pexels-photo-4152461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 2,
+      "departmentName": "صناعة المحتوي ",
+      "coursess_count": 1
     },
     {
-      "title": "تطبيق لمتابعة التعلم الذاتي",
-      "description": "تطبيق لمتابعة التقدم في الدورات التعليمية وتقديم ملاحظات وتحفيز.",
-      "category": "تعليم",
-      "likes": 0,
-      "userid": 4,
-      "comments": [],
-      "id": 23
-    },
-    {
-      "title": "منصة للمشاريع الإبداعية",
-      "description": "منصة لعرض المشاريع الإبداعية والابتكارات ومشاركة الأفكار مع المجتمع.",
-      "category": "التكنولوجيا",
-      "likes": 0,
-      "userid": 5,
-      "comments": [],
-      "id": 24
-    },
-    {
-      "title": "تطبيق لتحسين جودة النوم",
-      "description": "تطبيق يساعد في تحسين جودة النوم من خلال تتبع الأنماط وتقديم نصائح.",
-      "category": "صحة",
-      "likes": 0,
-      "userid": 6,
-      "comments": [],
-      "id": 25
-    },
-    {
-      "title": "أداة لتحليل الأداء الأكاديمي",
-      "description": "أداة لتحليل الأداء الأكاديمي للطلاب وتقديم توصيات للتحسين.",
-      "category": "تعليم",
-      "likes": 0,
-      "userid": 7,
-      "comments": [],
-      "id": 26
-    },
-    {
-      "title": "تطبيق لمتابعة حالات الطقس",
-      "description": "تطبيق يقدم تحديثات دقيقة عن الطقس وحالة الجو بناءً على الموقع.",
-      "category": "تكنولوجيا",
-      "likes": 0,
-      "userid": 8,
-      "comments": [],
-      "id": 27
-    },
-    {
-      "title": "منصة للتدريب على مهارات البرمجة",
-      "description": "منصة تقدم تدريبات ومشاريع عملية لتعلم البرمجة وتحسين المهارات.",
-      "category": "تعليم",
-      "likes": 0,
-      "userid": 9,
-      "comments": [],
-      "id": 28
-    },
-    {
-      "title": "تطبيق للتأمل والاسترخاء",
-      "description": "تطبيق يقدم تمارين تأمل واسترخاء لمساعدة المستخدمين على التخفيف من التوتر.",
-      "category": "صحة",
-      "likes": 0,
-      "userid": 10,
-      "comments": [],
-      "id": 29
-    },
-    {
-      "title": "Mollitia culpa moll",
-      "description": "Exercitation volupta",
-      "category": "الرياضة",
-      "likes": 0,
-      "userid": 17,
-      "comments": [],
-      "id": 30
+      "thomnaile": "https://images.pexels.com/photos/5256526/pexels-photo-5256526.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 3,
+      "departmentName": "العمل الحر",
+      "coursess_count": 1
     }
   ]
 }
